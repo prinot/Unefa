@@ -1,0 +1,17 @@
+body{
+	background:#FFF;
+}
+#table_menu{
+	border-collapse:collapse;
+}
+#img_relaciones{
+	display:block;
+	margin:0 auto 0 auto;
+}
+a{
+	text-decoration:none;
+}
+footer{
+	text-align:center;
+}
+

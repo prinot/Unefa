@@ -1,0 +1,12 @@
+chmod 777 (nombre de la carpeta)
+permisos a la carpeta
+
+fuera de la carpeta www
+chmod 777 www
+
+dentro de la carpeta www
+chmod 777 css
+chmod 777 extras
+chmod 777 img
+chmod 777 module
+chmod 777 secure
